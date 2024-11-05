@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="фото\загрузка %281%29.jpeg" />
+    <None Remove="фото\загрузка.jpeg" />
+    <None Remove="фото\оо.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="фото\загрузка (1).jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="фото\загрузка.jpeg" />
+    <Resource Include="фото\оо.jpeg" />
+  </ItemGroup>
+
+</Project>

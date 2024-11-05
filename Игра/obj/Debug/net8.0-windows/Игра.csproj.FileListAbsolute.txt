@@ -1,0 +1,26 @@
+C:\Users\onsty\source\repos\Игра\Игра\bin\Debug\net8.0-windows\Игра.exe
+C:\Users\onsty\source\repos\Игра\Игра\bin\Debug\net8.0-windows\Игра.deps.json
+C:\Users\onsty\source\repos\Игра\Игра\bin\Debug\net8.0-windows\Игра.runtimeconfig.json
+C:\Users\onsty\source\repos\Игра\Игра\bin\Debug\net8.0-windows\Игра.dll
+C:\Users\onsty\source\repos\Игра\Игра\bin\Debug\net8.0-windows\Игра.pdb
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра_MarkupCompile.cache
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра_MarkupCompile.lref
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра.g.resources
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра.AssemblyInfoInputs.cache
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра.AssemblyInfo.cs
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра.csproj.CoreCompileInputs.cache
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра.dll
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\refint\Игра.dll
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра.pdb
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Игра.genruntimeconfig.cache
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\ref\Игра.dll
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Угадай число.g.cs
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Угадай число.baml
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Предупреждение.g.cs
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Предупреждение.baml
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Правила.g.cs
+C:\Users\onsty\source\repos\Игра\Игра\obj\Debug\net8.0-windows\Правила.baml

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|c:\\users\\onsty\\source\\repos\\\u0438\u0433\u0440\u0430\\\u0438\u0433\u0440\u0430\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|solutionrelative:\u0438\u0433\u0440\u0430\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|c:\\users\\onsty\\source\\repos\\\u0438\u0433\u0440\u0430\\\u0438\u0433\u0440\u0430\\\u043F\u0440\u0435\u0434\u0443\u043F\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|solutionrelative:\u0438\u0433\u0440\u0430\\\u043F\u0440\u0435\u0434\u0443\u043F\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|c:\\users\\onsty\\source\\repos\\\u0438\u0433\u0440\u0430\\\u0438\u0433\u0440\u0430\\\u043F\u0440\u0430\u0432\u0438\u043B\u0430.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|solutionrelative:\u0438\u0433\u0440\u0430\\\u043F\u0440\u0430\u0432\u0438\u043B\u0430.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|c:\\users\\onsty\\source\\repos\\\u0438\u0433\u0440\u0430\\\u0438\u0433\u0440\u0430\\\u043F\u0440\u0430\u0432\u0438\u043B\u0430.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|solutionrelative:\u0438\u0433\u0440\u0430\\\u043F\u0440\u0430\u0432\u0438\u043B\u0430.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|c:\\users\\onsty\\source\\repos\\\u0438\u0433\u0440\u0430\\\u0438\u0433\u0440\u0430\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|solutionrelative:\u0438\u0433\u0440\u0430\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|c:\\users\\onsty\\source\\repos\\\u0438\u0433\u0440\u0430\\\u0438\u0433\u0440\u0430\\\u0443\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|solutionrelative:\u0438\u0433\u0440\u0430\\\u0443\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|c:\\users\\onsty\\source\\repos\\\u0438\u0433\u0440\u0430\\\u0438\u0433\u0440\u0430\\\u0443\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFB3A883-0ACA-44AD-9F53-EDFE15B711CC}|\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430.csproj|solutionrelative:\u0438\u0433\u0440\u0430\\\u0443\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 238,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml.cs",
+              "RelativeDocumentMoniker": "\u0418\u0433\u0440\u0430\\\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml.cs",
+              "ToolTip": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml.cs",
+              "RelativeToolTip": "\u0418\u0433\u0440\u0430\\\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:18:44.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml.cs",
+              "RelativeDocumentMoniker": "\u0418\u0433\u0440\u0430\\\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml.cs",
+              "ToolTip": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml.cs",
+              "RelativeToolTip": "\u0418\u0433\u0440\u0430\\\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:40:36.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml",
+              "DocumentMoniker": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml",
+              "RelativeDocumentMoniker": "\u0418\u0433\u0440\u0430\\\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml",
+              "ToolTip": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml",
+              "RelativeToolTip": "\u0418\u0433\u0440\u0430\\\u0423\u0433\u0430\u0434\u0430\u0439 \u0447\u0438\u0441\u043B\u043E.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T15:39:52.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u041F\u0440\u0435\u0434\u0443\u043F\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435.xaml",
+              "DocumentMoniker": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u041F\u0440\u0435\u0434\u0443\u043F\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435.xaml",
+              "RelativeDocumentMoniker": "\u0418\u0433\u0440\u0430\\\u041F\u0440\u0435\u0434\u0443\u043F\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435.xaml",
+              "ToolTip": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u041F\u0440\u0435\u0434\u0443\u043F\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435.xaml",
+              "RelativeToolTip": "\u0418\u0433\u0440\u0430\\\u041F\u0440\u0435\u0434\u0443\u043F\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u0435.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T16:18:02.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml",
+              "DocumentMoniker": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml",
+              "RelativeDocumentMoniker": "\u0418\u0433\u0440\u0430\\\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml",
+              "ToolTip": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml",
+              "RelativeToolTip": "\u0418\u0433\u0440\u0430\\\u041F\u0440\u0430\u0432\u0438\u043B\u0430.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T18:38:18.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u0418\u0433\u0440\u0430\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\MainWindow.xaml.cs",
+              "RelativeToolTip": "\u0418\u0433\u0440\u0430\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:31:03.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ec05ee4a-4627-4179-b68d-f1f1504073bd",
+        "Display": 0,
+        "X": 32,
+        "Y": 77,
+        "Width": 1274,
+        "Height": 644,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u0418\u0433\u0440\u0430\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\onsty\\source\\repos\\\u0418\u0433\u0440\u0430\\\u0418\u0433\u0440\u0430\\MainWindow.xaml",
+              "RelativeToolTip": "\u0418\u0433\u0440\u0430\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T15:31:08.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

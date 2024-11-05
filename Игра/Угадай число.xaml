@@ -1,0 +1,17 @@
+﻿<Window x:Class="Игра.Угадай_число"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Игра"
+        mc:Ignorable="d"
+        Title="Игра: Угадай число" MinHeight="300" MinWidth="700">
+    <Grid Background="Pink">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock FontSize="24" HorizontalAlignment="Center" Name="MessageTextBlock"/>
+            <TextBox Name="GuessTextBox" Width="200" Text="Введите ваше число"/>
+            <Button Name="SubmitButton" Content="Угадать" Width="200" Click="SubmitButton_Click"/>
+            <Button Name="RestartButton" Content="Начать заново" Width="200" Click="RestartButton_Click" Visibility="Collapsed"/>
+        </StackPanel>
+    </Grid>
+</Window>
